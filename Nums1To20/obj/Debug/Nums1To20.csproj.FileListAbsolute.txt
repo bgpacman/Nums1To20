@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe.config
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Nums1To20\Nums1To20\bin\Debug\Nums1To20.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Nums1To20\Nums1To20\bin\Debug\Nums1To20.pdb
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Nums1To20\Nums1To20\obj\Debug\Nums1To20.exe
+C:\Users\USER\Project\SoftUni\01 FIrst Lesson\01\Nums1To20\Nums1To20\obj\Debug\Nums1To20.pdb
